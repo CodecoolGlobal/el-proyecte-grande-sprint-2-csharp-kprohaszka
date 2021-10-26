@@ -183,7 +183,8 @@ image-container > a, image-container::after {
 }
 
 .image {
-    box-shadow: 0 4px 5px 4px rgba(0, 0, 0, 0.3) cursor: pointer;
+    box-shadow: 0 4px 5px 4px rgba(0, 0, 0, 0.3)
+    cursor: pointer;
 }
 
 .img-container {
