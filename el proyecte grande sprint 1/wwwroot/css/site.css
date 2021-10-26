@@ -88,20 +88,20 @@ body {
     position: relative;
 }
 
-.search-container {
+.container {
     text-align: center;
     min-height: 100%;
     position: relative;
-    width: 600px;
+    width: 54%;
     margin-top: 20%;
     margin-left: 23%;
-    /*    background-color:whitesmoke;
-    opacity:70%;*/
+        background-color:whitesmoke;
+    opacity:70%;
 }
 
 .search-bar {
     border-radius: 5px;
-    width: 430px;
+    width: 100%;
     margin: auto;
     border: 3px solid gray;
 }
